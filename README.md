@@ -25,3 +25,11 @@ Yellow dots in the electron beam show step points used by Geant4.
 
 
 ![Screenshot from 2017-11-13 11-08-27](https://user-images.githubusercontent.com/108433853/176556099-86129efd-e07c-4eef-b956-5e8f45bf43a1.png)
+
+![Sim_picture](https://user-images.githubusercontent.com/108433853/176556151-257672c3-2489-49ab-a3e0-092d52f32d5f.png)
+
+![TotalWaterEnergy](https://user-images.githubusercontent.com/108433853/176556170-96f025b3-c9e3-442f-9bf8-5fcfc74a36e5.png)
+
+![WaterHitDet](https://user-images.githubusercontent.com/108433853/176556181-dfba8d29-f307-46a8-8147-7f289364fc4b.png)
+
+
