@@ -30,6 +30,10 @@ Yellow dots in the electron beam show step points used by Geant4.
 
 ![TotalWaterEnergy](https://user-images.githubusercontent.com/108433853/176556170-96f025b3-c9e3-442f-9bf8-5fcfc74a36e5.png)
 
+TotalWaterEnergy: Shows the amount of energy each individual particle (from the electron beam) deposited into the water detectors (white voxeled square).
+
 ![WaterHitDet](https://user-images.githubusercontent.com/108433853/176556181-dfba8d29-f307-46a8-8147-7f289364fc4b.png)
+
+WaterHitDet: Shows which voxel a particular particle hit. The voxels are numbered from 0 to 99. They start from the top column, then left to right, then second column, left to right, etc.
 
 
