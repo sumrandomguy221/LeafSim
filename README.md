@@ -12,9 +12,9 @@ PrimaryGeneratorAction is where we implement the electron beam.
 
 DetectorConstrunction is where we build the world box that holds the physics, detectors, and tungsten plates.
 
-Script_Leaf_Analysis is where we analyze the data, utilizing ROOT, after the simulation is done. This produces the histograms TotalWaterEnergy and WaterHitDet in 'Images' Folder.
+Script_Leaf_Analysis is where we analyze the data, utilizing ROOT, after the simulation is done. This produces the histograms TotalWaterEnergy and WaterHitDet listed below or in the 'Images' Folder.
 
-You can view screenshots of the simulation setup in the 'Images' folder as well.
+Some of the pictures below are visual representations of the simulations created by Geant4.
   - Red lines with yellow dots -> electron beam
   - Blue rectangular boxes -> tungsten plates (leaves)
   - Yellow voxeled sqaure -> CsI detectors
