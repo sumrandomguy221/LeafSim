@@ -34,4 +34,4 @@ TotalWaterEnergy: Shows the amount of energy each individual particle (from the 
 
 ![WaterHitDet](https://user-images.githubusercontent.com/108433853/176556181-dfba8d29-f307-46a8-8147-7f289364fc4b.png)
 
-WaterHitDet: Shows which voxel a particular particle hit. The voxels are numbered from 0 to 99. They start from the top column, then left to right, then second column, left to right, and so on. 
+WaterHitDet: Shows which voxel the electron from the beam hit. The voxels are numbered from 0 to 99. They start from the top row, then left to right, then second row, left to right, and so on. 
