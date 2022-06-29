@@ -22,3 +22,6 @@ You can view screenshots of the simulation setup in the 'Images' folder as well.
   - green lines shown in screenshots -> Neutral particles (in this case gamma particles)
 
 Yellow dots in the electron beam show step points used by Geant4.
+
+
+![Screenshot from 2017-11-13 11-08-27](https://user-images.githubusercontent.com/108433853/176556099-86129efd-e07c-4eef-b956-5e8f45bf43a1.png)
