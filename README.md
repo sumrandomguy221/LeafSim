@@ -12,4 +12,4 @@ PrimaryGeneratorAction is where we implement the electron beam.
 
 DetectorConstrunction is where we build the world box that holds the physics, detectors, and tungsten plates.
 
-Script_Leaf_Analysis is where we analyze the data, utilizing ROOT, after the simulation is done. This produces the histograms shown.
+Script_Leaf_Analysis is where we analyze the data, utilizing ROOT, after the simulation is done. This produces the histograms in 'Images' Folder.
