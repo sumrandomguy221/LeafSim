@@ -19,7 +19,7 @@ Some of the pictures below are visual representations of the simulations created
   - Blue/cyan rectangular boxes -> tungsten plates (leaves)
   - Yellow voxeled sqaure -> CsI detectors
   - White voxeled square in Sim_picture -> Water detector
-  - green lines shown in screenshots -> Neutral particles (in this case gamma particles)
+  - Green lines shown in screenshots -> Neutral particles (in this case gamma particles)
 
 Yellow dots in the electron beam show step points used by Geant4.
 
